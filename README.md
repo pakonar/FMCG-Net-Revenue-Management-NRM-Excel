@@ -23,32 +23,35 @@ I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez,
 
 ### 1. Brand Portfolio Pricing & Mix Management
 I performed a profitability audit of the HealthMax product portfolio:
-* **Profitability Matrix:** I engineered a Scatter Plot comparing *Gross Margin %* with *Net Sales Contribution*.
+* **Profitability Matrix:** I engineered a Scatter Plot comparing *Gross Margin %* with *Net Sales Contribution*.  
+![](images/profitability_matrix.png)
 * **Insights:** I classified the portfolio into actionable segments:
   * **Stars (Profit Drivers):** High sales contribution and high margin.
   * **Volume Drivers:** Massive sales contribution but low margin (crucial for market share, but require cost control).
   * **Niche Margin Generators:** Low sales contribution but highly profitable per unit.
   * **Dogs (Problematic Products):** Low sales and low margin – recommended for immediate delisting.
 * **Category Expansion:** I identified a portfolio gap (HealthMax is active in only 2 of 5 subcategories). I proved that the **Organic** category is the fastest-growing segment and estimated its 2024 market demand at **1,020,899 units**.
-![](images/profitability_matrix.png)
+![](images/new_category_opportunity.png)
 ### 2. Pack Price Architecture (PPA)
 I identified a critical gap in the packaging architecture:
 * **Opportunity:** The lack of a "Travel Size" (50ml) format. I calculated that launching this specific format will generate an estimated additional Net Sales of **$265,960** annually, driven by a higher price-per-ml premium.
 
 ### 3. Promotion Management (ROI Analysis)
+![](images/shinez_value_sale_2022.png)
 I evaluated the historical effectiveness of promotional campaigns for the Shinez brand:
 * **Methodology:** I established Baseline Sales (average of non-promoted months) to isolate the true sales Uplift.
 * **Insights:** I proved that the "Buy 2, get 1 free" promotion generated a negative return **(ROI: -2.45%)** despite driving the highest sales volume, indicating excessive promotional costs.
 * **Recommendation:** I recommended shifting the budget to the "Buy 2, get 20% off" mechanism, which generated the highest uplift and a highly profitable **ROI of +11.84%**.
-
+![](images/promotion_analysis.png)
 ### 4. Trade Terms Management
 By analyzing the pricing structure, I identified the level of Trade Spend (investments in sales channels) by comparing Retail Prices with Net Prices. 
 * **Insights:** I demonstrated that the negative ROI of the "Buy 2, get 1 free" promotion is a direct indicator of poorly negotiated trade terms (the retailer profited while the manufacturer subsidized the sale). Regional market share analysis further highlighted areas where trade investments fail to deliver expected returns.
 
 ## Forecasting & Strategic Bridge
-* **Organic Baseline:** I utilized the **ETS algorithm** and historical data up to 2022 to forecast the market trend. The projected organic Net Sales for 2024 (without NRM initiatives) stands at **$20,808,712**.
+* **Organic Baseline:** I utilized the **ETS algorithm** and historical data up to 2022 to forecast the market trend. The projected organic Net Sales for 2024 (without NRM initiatives) stands at **$20,808,712**.  
+![](images/forecast.png)
 * **NRM Impact:** I built a **Waterfall Chart** which clearly proves that the estimated 2024 Net Sales target of **$21.4M** is primarily driven by active NRM initiatives (Organic launch & 50ml PPA), generating approx. **+$600k** above the natural market trend.
-
+![](images/estimated_net_sales_2024.png)
 ---
 *Based on the Case Study: Net Revenue Management in Excel by datacamp.com*  
 *Data source: Net Revenue Management in Excel by datacamp.com*  
