@@ -12,7 +12,7 @@ This project is a comprehensive **Net Revenue Management (NRM)** analysis conduc
  **Time Intelligence:** MAT (Moving Annual Total), YTD (Year-to-Date), YoY Growth 
  **Forecasting:** ETS Algorithm (Exponential Triple Smoothing), Confidence Intervals 
  **Visualization:** Waterfall Charts (Strategic Bridge), Scatter Plots (Portfolio Matrix) 
-
+!(images/Shampoo Brands Market Share Evolution.png)
 ##  Market Performance Audit
 I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez, Starbust) in 2 out of 5 subcategories (Anti-dandruff, Volumizing). 
 * **Competitor Threat:** I demonstrated that Starbust's market share dropped from 24% to 21% **(-3 p.p.)** between 2018 and 2022, while the main competitor (Harmonix) grew from 13% to 19% **(+6 p.p.)**. This indicates a direct loss of customers to the key competitor.
@@ -45,7 +45,7 @@ I evaluated the historical effectiveness of promotional campaigns for the Shinez
 By analyzing the pricing structure, I identified the level of Trade Spend (investments in sales channels) by comparing Retail Prices with Net Prices. 
 * **Insights:** I demonstrated that the negative ROI of the "Buy 2, get 1 free" promotion is a direct indicator of poorly negotiated trade terms (the retailer profited while the manufacturer subsidized the sale). Regional market share analysis further highlighted areas where trade investments fail to deliver expected returns.
 
-## 🔮 Forecasting & Strategic Bridge
+## Forecasting & Strategic Bridge
 * **Organic Baseline:** I utilized the **ETS algorithm** and historical data up to 2022 to forecast the market trend. The projected organic Net Sales for 2024 (without NRM initiatives) stands at **$20,808,712**.
 * **NRM Impact:** I built a **Waterfall Chart** which clearly proves that the estimated 2024 Net Sales target of **$21.4M** is primarily driven by active NRM initiatives (Organic launch & 50ml PPA), generating approx. **+$600k** above the natural market trend.
 
