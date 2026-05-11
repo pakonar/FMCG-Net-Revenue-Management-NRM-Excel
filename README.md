@@ -12,13 +12,13 @@ This project is a comprehensive **Net Revenue Management (NRM)** analysis conduc
  **Time Intelligence:** MAT (Moving Annual Total), YTD (Year-to-Date), YoY Growth 
  **Forecasting:** ETS Algorithm (Exponential Triple Smoothing), Confidence Intervals 
  **Visualization:** Waterfall Charts (Strategic Bridge), Scatter Plots (Portfolio Matrix)  
-![Shampoo Brands Market Share Evolution](images/market_share.png)
+
 ##  Market Performance Audit
 I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez, Starbust) in 2 out of 5 subcategories (Anti-dandruff, Volumizing). 
 * **Competitor Threat:** I demonstrated that Starbust's market share dropped from 24% to 21% **(-3 p.p.)** between 2018 and 2022, while the main competitor (Harmonix) grew from 13% to 19% **(+6 p.p.)**. This indicates a direct loss of customers to the key competitor.
 * **Growth Engine:** I identified that the Shinez brand maintains a steady growth trend, increasing from 12% to 14% **(+2 p.p.)** by March 2023.
 * **Benchmarking:** I pinpointed 2020 as the year with the highest YoY Growth **(+7.22% for Shinez)**, establishing a historical benchmark for maximum brand potential.
-
+![](images/market_share.png)
 ## The 5 Pillars of NRM: Implementation
 
 ### 1. Brand Portfolio Pricing & Mix Management
@@ -30,7 +30,7 @@ I performed a profitability audit of the HealthMax product portfolio:
   * **Niche Margin Generators:** Low sales contribution but highly profitable per unit.
   * **Dogs (Problematic Products):** Low sales and low margin – recommended for immediate delisting.
 * **Category Expansion:** I identified a portfolio gap (HealthMax is active in only 2 of 5 subcategories). I proved that the **Organic** category is the fastest-growing segment and estimated its 2024 market demand at **1,020,899 units**.
-
+![](images/profitability_matrix.png)
 ### 2. Pack Price Architecture (PPA)
 I identified a critical gap in the packaging architecture:
 * **Opportunity:** The lack of a "Travel Size" (50ml) format. I calculated that launching this specific format will generate an estimated additional Net Sales of **$265,960** annually, driven by a higher price-per-ml premium.
