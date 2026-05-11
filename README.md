@@ -12,7 +12,7 @@ This project is a comprehensive **Net Revenue Management (NRM)** analysis conduc
  **Time Intelligence:** MAT (Moving Annual Total), YTD (Year-to-Date), YoY Growth 
  **Forecasting:** ETS Algorithm (Exponential Triple Smoothing), Confidence Intervals 
  **Visualization:** Waterfall Charts (Strategic Bridge), Scatter Plots (Portfolio Matrix)  
-![Shampoo Brands Market Share Evolution](images/Shampoo Brands Market Share Evolution.png)
+![Shampoo Brands Market Share Evolution](images/market_share.png)
 ##  Market Performance Audit
 I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez, Starbust) in 2 out of 5 subcategories (Anti-dandruff, Volumizing). 
 * **Competitor Threat:** I demonstrated that Starbust's market share dropped from 24% to 21% **(-3 p.p.)** between 2018 and 2022, while the main competitor (Harmonix) grew from 13% to 19% **(+6 p.p.)**. This indicates a direct loss of customers to the key competitor.
