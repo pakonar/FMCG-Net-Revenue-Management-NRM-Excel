@@ -18,7 +18,7 @@ I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez,
 * **Competitor Threat:** I demonstrated that Starbust's market share dropped from 24% to 21% **(-3 p.p.)** between 2018 and 2022, while the main competitor (Harmonix) grew from 13% to 19% **(+6 p.p.)**. This indicates a direct loss of customers to the key competitor.
 * **Growth Engine:** I identified that the Shinez brand maintains a steady growth trend, increasing from 12% to 14% **(+2 p.p.)** by March 2023.
 * **Benchmarking:** I pinpointed 2020 as the year with the highest YoY Growth **(+7.22% for Shinez)**, establishing a historical benchmark for maximum brand potential.
-![](images/market_share.png)
+<img src="images/market_share.png" width="500">
 ## The 5 Pillars of NRM: Implementation
 
 ### 1. Brand Portfolio Pricing & Mix Management
