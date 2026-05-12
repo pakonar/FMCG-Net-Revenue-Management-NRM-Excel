@@ -37,7 +37,7 @@ I performed a profitability audit of the HealthMax product portfolio:
   * **Dogs (Problematic Products):** Low sales and low margin – recommended for immediate delisting.
 * **Category Expansion:** I identified a portfolio gap (HealthMax is active in only 2 of 5 subcategories). I proved that the **Organic** category is the fastest-growing segment and estimated its 2024 market demand at **1,020,899 units**.  
 <p align="center">
-  <img src="images/new_category_opportunity.png">  
+  <img src="images/new_category_opportunity.png" width="600">  
 
 ### 2. Pack Price Architecture (PPA)
 I identified a critical gap in the packaging architecture:
@@ -45,7 +45,7 @@ I identified a critical gap in the packaging architecture:
 
 ### 3. Promotion Management (ROI Analysis)  
 <p align="center">
-  <img src=images/shinez_value_sale_2022.png" width="500">  
+  <img src="images/shinez_value_sale_2022.png" width="500">  
 I evaluated the historical effectiveness of promotional campaigns for the Shinez brand:
 * **Methodology:** I established Baseline Sales (average of non-promoted months) to isolate the true sales Uplift.
 * **Insights:** I proved that the "Buy 2, get 1 free" promotion generated a negative return **(ROI: -2.45%)** despite driving the highest sales volume, indicating excessive promotional costs.
@@ -57,9 +57,13 @@ By analyzing the pricing structure, I identified the level of Trade Spend (inves
 
 ## Forecasting & Strategic Bridge
 * **Organic Baseline:** I utilized the **ETS algorithm** and historical data up to 2022 to forecast the market trend. The projected organic Net Sales for 2024 (without NRM initiatives) stands at **$20,808,712**.  
-![](images/forecast.png)
+<p align="center">
+  <img src="images/forecast.png" width="500"> 
+
 * **NRM Impact:** I built a **Waterfall Chart** which clearly proves that the estimated 2024 Net Sales target of **$21.4M** is primarily driven by active NRM initiatives (Organic launch & 50ml PPA), generating approx. **+$600k** above the natural market trend.
-![](images/estimated_net_sales_2024.png)
+<p align="center">
+  <img src="images/estimated_net_sales_2024.png" width="500"> 
+
 ---
 *Based on the Case Study: Net Revenue Management in Excel by datacamp.com*  
 *Data source: Net Revenue Management in Excel by datacamp.com*  
