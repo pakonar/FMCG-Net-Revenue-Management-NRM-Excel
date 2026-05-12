@@ -44,13 +44,17 @@ I identified a critical gap in the packaging architecture:
 * **Opportunity:** The lack of a "Travel Size" (50ml) format. I calculated that launching this specific format will generate an estimated additional Net Sales of **$265,960** annually, driven by a higher price-per-ml premium.
 
 ### 3. Promotion Management (ROI Analysis)  
+
 <p align="center">
   <img src="images/shinez_value_sale_2022.png" width="500">  
+  
 I evaluated the historical effectiveness of promotional campaigns for the Shinez brand:
 * **Methodology:** I established Baseline Sales (average of non-promoted months) to isolate the true sales Uplift.
 * **Insights:** I proved that the "Buy 2, get 1 free" promotion generated a negative return **(ROI: -2.45%)** despite driving the highest sales volume, indicating excessive promotional costs.
 * **Recommendation:** I recommended shifting the budget to the "Buy 2, get 20% off" mechanism, which generated the highest uplift and a highly profitable **ROI of +11.84%**.
-![](images/promotion_analysis.png)
+
+![](images/promotion_analysis.png)  
+
 ### 4. Trade Terms Management
 By analyzing the pricing structure, I identified the level of Trade Spend (investments in sales channels) by comparing Retail Prices with Net Prices. 
 * **Insights:** I demonstrated that the negative ROI of the "Buy 2, get 1 free" promotion is a direct indicator of poorly negotiated trade terms (the retailer profited while the manufacturer subsidized the sale). Regional market share analysis further highlighted areas where trade investments fail to deliver expected returns.
