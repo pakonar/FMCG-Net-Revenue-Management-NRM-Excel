@@ -52,8 +52,8 @@ I evaluated the historical effectiveness of promotional campaigns for the Shinez
 * **Methodology:** I established Baseline Sales (average of non-promoted months) to isolate the true sales Uplift.
 * **Insights:** I proved that the "Buy 2, get 1 free" promotion generated a negative return **(ROI: -2.45%)** despite driving the highest sales volume, indicating excessive promotional costs.
 * **Recommendation:** I recommended shifting the budget to the "Buy 2, get 20% off" mechanism, which generated the highest uplift and a highly profitable **ROI of +11.84%**.
-
-![](images/promotion_analysis.png)  
+<p align="center">
+  <img src="images/promotion_analysis.png"> 
 
 ### 4. Trade Terms Management
 By analyzing the pricing structure, I identified the level of Trade Spend (investments in sales channels) by comparing Retail Prices with Net Prices. 
@@ -87,28 +87,43 @@ Przeprowadziłem diagnozę firmy HealthMax, która posiada 2 marki (Shinez, Star
 * **Zagrożenie ze strony konkurencji:** Wykazałem, że udział w rynku marki Starbust spadł z 24% do 21% **(-3 p.p.)** w latach 2018-2022, podczas gdy główny konkurent (Harmonix) urósł z 13% do 19% **(+6 p.p.)**. Wskazuje to na bezpośrednią utratę klientów na rzecz kluczowego rywala.
 * **Motor wzrostu:** Zauważyłem, że marka Shinez utrzymuje stabilny trend, rosnąc z 12% do 14% **(+2 p.p.)** do marca 2023 roku.
 * **Benchmarking:** Zidentyfikowałem rok 2020 jako okres najwyższego wzrostu **(+7.22% YoY dla Shinez)**, co stanowi historyczną podstawę do szacowania maksymalnego potencjału marek.
+<p align="center">
+  <img src="images/market_share.png" width="500">  
 
 ##  Filary NRM: Wdrożenie i Wnioski
 
 ### 1. Brand Portfolio Pricing & Mix Management
 Przeprowadziłem audyt rentowności portfela produktów HealthMax:
 * **Profitability Matrix:** Stworzyłem wykres punktowy zestawiający *Gross Margin %* z *Net Sales Contribution*.
+
+<p align="center">
+  <img src="images/profitability_matrix.png" width="500">  
+  
 * **Wnioski:** Sklasyfikowałem produkty na 4 strategiczne grupy:
   * **Gwiazdy (Profit Drivers):** Produkty o wysokim udziale w sprzedaży i wysokiej marży (finansują firmę).
   * **Budowniczowie skali (Volume Drivers):** Ogromny udział w sprzedaży, ale niska marża (wymagają kontroli kosztów).
   * **Niszowi generatorzy marży:** Mały udział, ale bardzo wysoka rentowność jednostkowa.
   * **Produkty problematyczne:** Niski udział i niska marża – zarekomendowałem ich usunięcie z oferty.
 * **Ekspansja:** Zidentyfikowałem lukę w portfelu (obecność tylko w 2 z 5 podkategorii). Udowodniłem, że kategoria **Organic** rośnie najszybciej i wyliczyłem jej szacowane zapotrzebowanie na rok 2024 na poziomie **1,020,899 sztuk**.
+<p align="center">
+  <img src="images/new_category_opportunity.png" width="600">  
 
 ### 2. Pack Price Architecture (PPA)
 Zidentyfikowałem lukę w architekturze opakowań:
 * **Okazja biznesowa:** Brak formatu "Travel Size" (50ml). Obliczyłem, że jego wdrożenie wygeneruje dodatkowe przychody netto (Net Sales) w wysokości **$265,960** rocznie, dzięki wyższej marży za mililitr.
 
-### 3. Promotion Management (Analiza ROI)
+### 3. Promotion Management (Analiza ROI)  
+
+<p align="center">
+  <img src="images/shinez_value_sale_2022.png" width="500">  
+  
 Oceniłem efektywność historycznych akcji promocyjnych marki Shinez:
 * **Metodologia:** Wyznaczyłem linię bazową sprzedaży (średnia z miesięcy bez promocji), aby wyizolować realny *Uplift*.
 * **Wnioski:** Udowodniłem, że promocja "Buy 2, get 1 free" wygenerowała ujemny zwrot **(ROI: -2.45%)** pomimo najwyższego wolumenu sprzedaży, co oznacza straty operacyjne.
 * **Rekomendacja:** Zarekomendowałem przesunięcie budżetu na mechanizm "Buy 2, get 20% off", który wygenerował najwyższy *Uplift* i zyskowny **ROI na poziomie +11.84%**.
+
+<p align="center">
+  <img src="images/promotion_analysis.png">  
 
 ### 4. Trade Terms Management
 Analizując strukturę cenową, zidentyfikowałem poziom inwestycji w kanały sprzedaży (*Trade Spend*) poprzez zestawienie cen detalicznych z cenami netto. 
@@ -116,4 +131,9 @@ Analizując strukturę cenową, zidentyfikowałem poziom inwestycji w kanały sp
 
 ##  Prognozowanie i Strategic Bridge (Waterfall)
 * **Prognoza organiczna:** Wykorzystałem algorytm **ETS** do prognozy trendu rynkowego. Prognozowany *Net Sales* na rok 2024 (bez inicjatyw NRM) wynosi **$20,808,712**.
+<p align="center">
+  <img src="images/forecast.png" width="500"> 
+
 * **Wpływ NRM:** Za pomocą wykresu **Waterfall** udowodniłem, że szacowany cel sprzedażowy na 2024 rok (**$21.4M**) zostanie osiągnięty głównie dzięki aktywnym działaniom NRM (nowy produkt Organic i format 50ml), które wygenerują ok. **+$600k** ponad naturalny trend rynkowy.
+  <p align="center">
+  <img src="images/estimated_net_sales_2024.png" width="500"> 
