@@ -27,20 +27,25 @@ I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez,
 ### 1. Brand Portfolio Pricing & Mix Management
 I performed a profitability audit of the HealthMax product portfolio:
 * **Profitability Matrix:** I engineered a Scatter Plot comparing *Gross Margin %* with *Net Sales Contribution*.  
-![](images/profitability_matrix.png)
+<p align="center">
+  <img src=images/profitability_matrix.png" width="500">  
+
 * **Insights:** I classified the portfolio into actionable segments:
   * **Stars (Profit Drivers):** High sales contribution and high margin.
   * **Volume Drivers:** Massive sales contribution but low margin (crucial for market share, but require cost control).
   * **Niche Margin Generators:** Low sales contribution but highly profitable per unit.
   * **Dogs (Problematic Products):** Low sales and low margin – recommended for immediate delisting.
-* **Category Expansion:** I identified a portfolio gap (HealthMax is active in only 2 of 5 subcategories). I proved that the **Organic** category is the fastest-growing segment and estimated its 2024 market demand at **1,020,899 units**.
-![](images/new_category_opportunity.png)
+* **Category Expansion:** I identified a portfolio gap (HealthMax is active in only 2 of 5 subcategories). I proved that the **Organic** category is the fastest-growing segment and estimated its 2024 market demand at **1,020,899 units**.  
+<p align="center">
+  <img src=images/new_category_opportunity.png" width="500">  
+
 ### 2. Pack Price Architecture (PPA)
 I identified a critical gap in the packaging architecture:
 * **Opportunity:** The lack of a "Travel Size" (50ml) format. I calculated that launching this specific format will generate an estimated additional Net Sales of **$265,960** annually, driven by a higher price-per-ml premium.
 
-### 3. Promotion Management (ROI Analysis)
-![](images/shinez_value_sale_2022.png)
+### 3. Promotion Management (ROI Analysis)  
+<p align="center">
+  <img src=images/shinez_value_sale_2022.png" width="500">  
 I evaluated the historical effectiveness of promotional campaigns for the Shinez brand:
 * **Methodology:** I established Baseline Sales (average of non-promoted months) to isolate the true sales Uplift.
 * **Insights:** I proved that the "Buy 2, get 1 free" promotion generated a negative return **(ROI: -2.45%)** despite driving the highest sales volume, indicating excessive promotional costs.
