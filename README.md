@@ -28,7 +28,7 @@ I conducted a baseline audit of HealthMax, which operates with 2 brands (Shinez,
 I performed a profitability audit of the HealthMax product portfolio:
 * **Profitability Matrix:** I engineered a Scatter Plot comparing *Gross Margin %* with *Net Sales Contribution*.  
 <p align="center">
-  <img src=images/profitability_matrix.png" width="500">  
+  <img src="images/profitability_matrix.png" width="500">  
 
 * **Insights:** I classified the portfolio into actionable segments:
   * **Stars (Profit Drivers):** High sales contribution and high margin.
@@ -37,7 +37,7 @@ I performed a profitability audit of the HealthMax product portfolio:
   * **Dogs (Problematic Products):** Low sales and low margin – recommended for immediate delisting.
 * **Category Expansion:** I identified a portfolio gap (HealthMax is active in only 2 of 5 subcategories). I proved that the **Organic** category is the fastest-growing segment and estimated its 2024 market demand at **1,020,899 units**.  
 <p align="center">
-  <img src=images/new_category_opportunity.png" width="500">  
+  <img src="images/new_category_opportunity.png">  
 
 ### 2. Pack Price Architecture (PPA)
 I identified a critical gap in the packaging architecture:
